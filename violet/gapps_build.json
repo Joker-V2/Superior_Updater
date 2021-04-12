@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1615528227,
-      "filename": "SuperiorOS-Xcalibur-violet-OFFICIAL-20210312-0555.zip",
-      "id": "bca525af7a31f41e3d22d7c35f3bef0c",
+      "datetime":1618203032,
+      "filename": "SuperiorOS-Xcalibur-violet-GAPPS-OFFICIAL-20210412-0454.zip",
+      "id": "68a59373856ce803679862dc0f42f973",
       "romtype": "OFFICIAL",
-      "size":955104642,
-      "url": "https://master.dl.sourceforge.net/project/superioros/violet/SuperiorOS-Xcalibur-violet-OFFICIAL-20210312-0555.zip",
+      "size":1384156164,
+      "url": "https://download.goindi.org/violet/violet/SuperiorOS-Xcalibur-violet-GAPPS-OFFICIAL-20210412-0454.zip",
       "version": "Xcalibur"
     }
   ]
